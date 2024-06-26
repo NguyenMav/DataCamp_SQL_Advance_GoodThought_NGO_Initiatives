@@ -1,5 +1,7 @@
 ## Project: Impact Analysis of GoodThought NGO Initiatives (SQL Advance)
 
+Link to workbook: https://www.datacamp.com/datalab/w/f7b153e3-0249-4416-a2b8-6efbaa287c22/edit
+
 GoodThought NGO has been a catalyst for positive change, focusing its efforts on education, healthcare, and sustainable development to make a significant difference in communities worldwide. With this mission, GoodThought has orchestrated an array of assignments aimed at uplifting underprivileged populations and fostering long-term growth.
 
 This project offers a hands-on opportunity to explore how data-driven insights can direct and enhance these humanitarian efforts. In this project, you'll engage with the GoodThought PostgreSQL database, which encapsulates detailed records of assignments, funding, impacts, and donor activities from 2010 to 2023. This comprehensive dataset includes:
